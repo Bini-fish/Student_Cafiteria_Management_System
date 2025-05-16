@@ -1,16 +1,5 @@
 # Group 1 Title: Student Cafeteria Management System (use doubly linked list)
 
-## Group Members
-| **Student Name**           | **ID.NO**          |
-|-----------------------------|--------------------|
-| BINIYAM FISSEHA YIMMAM     | NaScR/1609/16      |
-| YONATAN BERIHUN MENGISTU   | NaScR/3962/16      |
-| EPHREM TARIKU OICHA        | NaScR/1974/16      |
-| FENET BUSHURA ADEM         | NaScR/2105/16      |
-| MOGES MENGISTU AREGAY      | NaScR/3033/16      |
-| NAOL SHIMELIS ASEFA        | NaScR/3117/16      |
-| NARDOS MELESE GEBRE        | NaScR/3126/16      |
-
 ---
 
 ## **Regex Explanation**
